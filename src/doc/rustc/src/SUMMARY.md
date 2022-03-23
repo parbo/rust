@@ -15,6 +15,7 @@
 - [Platform Support](platform-support.md)
     - [Template for target-specific documentation](platform-support/TEMPLATE.md)
     - [aarch64-apple-ios-sim](platform-support/aarch64-apple-ios-sim.md)
+    - [\*-apple-watchos\*](platform-support/apple-watchos.md)
     - [armv7-unknown-linux-uclibceabi](platform-support/armv7-unknown-linux-uclibceabi.md)
     - [armv7-unknown-linux-uclibceabihf](platform-support/armv7-unknown-linux-uclibceabihf.md)
     - [aarch64-unknown-none-hermitkernel](platform-support/aarch64-unknown-none-hermitkernel.md)
